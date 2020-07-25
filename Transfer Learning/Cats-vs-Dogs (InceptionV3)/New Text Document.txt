@@ -1,0 +1,8 @@
+This model uses the dataset from kaggle competition 
+named cats-vs-dogs. 
+The link to the dataset can be found at the following
+link-
+https://www.kaggle.com/c/dogs-vs-cats/data
+
+Download the weights for inception V3 from the following link
+https://www.kaggle.com/madmaxliu/inceptionv3?select=inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
