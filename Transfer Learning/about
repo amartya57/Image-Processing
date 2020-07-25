@@ -1,0 +1,1 @@
+We perform the same cats-v-dogs task, but this time using the pre trained InceptionV3 model. This increases the accuracy a lot.
