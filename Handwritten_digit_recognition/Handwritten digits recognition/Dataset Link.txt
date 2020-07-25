@@ -1,0 +1,6 @@
+The dataset used for this mmodel is obtained from the 
+following link-
+
+https://www.kaggle.com/oddrationale/mnist-in-csv
+
+Download it and extract in the working directory
