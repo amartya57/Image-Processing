@@ -1,0 +1,1 @@
+Training our model to identify handwritten digits. The dataset is present in csv format in which each entry represents a pixel value
