@@ -1,0 +1,11 @@
+This model uses the dataset from kaggle competition 
+named cats-vs-dogs. 
+The link to the dataset can be found at the following
+link-
+https://www.kaggle.com/c/dogs-vs-cats/data
+
+Classification of cats-vs-dogs dataset from Kaggle using tensorflow and keras
+
+The dataset was downloaded from the link provided in the text file. 
+The images in the training and testing datasets were then merged into a single dataset file.
+It was then seperated randomly into training and testing datasets inside the code.
